@@ -56,7 +56,10 @@
     "shortid": "^2.2.16",
     "socket.io-client": "^4.7.5",
     "uuid": "^10.0.0",
-    "yup": "^1.4.0"
+    "yup": "^1.4.0",
+     "react-slick": "^0.30.2",
+    "slick-carousel": "^1.8.1",
+    "lucide-react": "^0.438.0"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.3.1",
